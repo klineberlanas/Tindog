@@ -1,2 +1,1 @@
-# Tindog
-Mock website of tinder
+TinDog Starting Files
